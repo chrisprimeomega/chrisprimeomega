@@ -9,12 +9,14 @@ archeologist ➡️ GIS/LIDAR data operator ➡️ <b>analyst</b> 🏦 ➡️❓
 
 ## PROJECTS
 #### No&Low Code
-- [x] PPK vs Crypto <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
+- [ ] OMF - Old Man Fund <img src="/gear_black.gif" height="20"> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
+  - [x] PPK vs Crypto <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
+  - [ ] David vs Goliath <img src="/gear_black.gif" height="20"> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
+  - [ ] ΩETF
+- [ ] ΩFund <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
 - [x] ΩFinder <img src="/uipath.svg" height="15">
 - [ ] COP - Crypto Old Price <img src="/gear_black.gif" height="20"> <img src="/uipath.svg" height="15">
-- [ ] David vs Goliath <img src="/gear_black.gif" height="20"> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
-- [ ] OMF - Old Man Fund <img src="/gear_black.gif" height="20"> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
-- [ ] ΩFund <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
+
 ## LEARNING
 - [ ] C#
 
