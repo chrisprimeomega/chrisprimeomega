@@ -14,7 +14,7 @@ archeologist ➡️ GIS/LIDAR data operator ➡️ <b>analyst</b> 🏦 ➡️❓
   - [ ] David vs Goliath <img src="/gear_black.gif" height="20"> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
   - [ ] ΩETF
 - [ ] ΩFund <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
-- [x] ΩFinder <img src="/uipath.svg" height="15">
+- [x] <a href="https://github.com/chrisprimeomega/OmegaFinder_robot_att">ΩFinder</a> <img src="/uipath.svg" height="15">
 - [ ] COP - Crypto Old Price <img src="/gear_black.gif" height="20"> <img src="/uipath.svg" height="15">
 
 ## LEARNING
