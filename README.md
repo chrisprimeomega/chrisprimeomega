@@ -9,12 +9,12 @@ archeologist ➡️ GIS/LIDAR data operator ➡️ <b>analyst</b> 🏦 ➡️❓
 
 ## PROJECTS
 #### No&Low Code
-- [ ] <a href="https://public.tableau.com/app/profile/chrisomega/viz/OldManFund/OMF">OMF - Old Man Fund</a> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
+- [ ] <a href="https://public.tableau.com/app/profile/chrisomega/viz/OldManFund/OMF" target="_blank">OMF - Old Man Fund</a> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
   - [x] PPK vs Crypto <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
   - [ ] David vs Goliath <img src="/gear_black.gif" height="20"> <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
   - [ ] ΩETF
 - [ ] ΩFund <img src="/excel.svg" height="15">  <img src="/tableau.png" height="15">
-- [x] <a href="https://github.com/chrisprimeomega/OmegaFinder_robot_att">ΩFinder</a> <img src="/uipath.svg" height="15">
+- [x] <a href="https://github.com/chrisprimeomega/OmegaFinder_robot_att" target="_blank">ΩFinder</a> <img src="/uipath.svg" height="15">
 - [ ] COP - Crypto Old Price <img src="/gear_black.gif" height="20"> <img src="/uipath.svg" height="15">
 
 ## LEARNING
